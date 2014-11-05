@@ -9,8 +9,6 @@ using namespace std;
 // Return value : SUCCESS:0  ERROR:-1
 // --------------------------------------------------------------------------
 
-this is a test
-
 typedef pair<int,int> Coord;
 
 void pid(double& x,double& y,const Coord& oldCenter,const Coord& newCenter,int key,IplImage* image,const double z){
